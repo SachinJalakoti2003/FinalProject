@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+static/uploads/*
+static/results/*
+.env
+*.pyd
+# models/release.caffemodel
